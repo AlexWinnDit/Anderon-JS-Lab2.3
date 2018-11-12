@@ -1,0 +1,106 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.clr{
+    clear:both;
+}
+p {
+    font-family: Helvetica, Arial, sans-serif;
+}
+header {
+    background: #3b5998;
+}
+.img-logo {
+    margin: 30px 0 20px 6.4%;
+}
+.center-block-main {
+    margin: 40px auto;
+    max-width: 68%;
+
+    border: 1px solid #cccccc;
+    border-radius: 3px;
+    overflow: hidden;
+}
+h1 {
+    font-size: 1.7em;
+    font-weight: bold;
+    margin: 25px 2.2%;
+    padding: 0 0 10px 0;
+    border-bottom: 1px solid #cccccc;
+    font-family: Helvetica, Arial, sans-serif;
+}
+.center-content-main {
+    margin: 0 auto;
+    max-width: 31.3%;
+    min-width: 287px;
+}
+
+.block-login>p {
+    float: left;
+    margin-right: 15px;
+    color: #666666;
+    font-size: 0.9em;
+    font-weight: bold;
+
+}
+.input-login {
+
+
+}
+.block-pass>p {
+    float: left;
+    margin-top: 10px;
+    margin-right: 51.795px;
+    font-size: 0.9em;
+    font-weight: bold;
+    color: #666666;
+}
+.input-pass {
+
+    margin-top: 10px;
+}
+.checkbox {
+    margin-right: 5px;
+}
+.block-checkbox {
+    margin: 10px 0 0 124.625px;
+
+    width: 115px;
+    font-size: 0.7em;
+}
+.block-checkbox>p>a {
+    float: right;
+    text-decoration: none;
+    color: #666666;
+}
+.block-btn-login {
+    margin: 15px auto;
+    width: 190px;
+    font-size: 0.7em;
+    color: #666666;
+}
+.btn-login {
+    margin-right: 7px;
+    color: white;
+    font-weight: bold;
+    font-family: Helvetica, Arial, sans-serif;
+    background: #637bad;
+    border: 1px solid #1a356e;
+    padding: 4px 6px;
+}
+.block-btn-login>p>a {
+    line-height: 26px;
+    float: right;
+    text-decoration: none;
+    color: #3b5998;
+    font-weight: bold;
+}
+.text-forgot {
+    margin: 20px 0 35px 124.625px;
+}
+.text-forgot>a {
+    text-decoration: none;
+    color: #3b5998;
+    font-size: 0.7em;
+}
